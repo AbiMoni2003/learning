@@ -7,11 +7,12 @@ import User from './User.jsx';
 import List from './List.jsx';
 import Button from './Button.jsx';
 import Count from './Count.jsx';
+import Percentage from './Percentage.jsx';
 function App(){
   
   return(
     <>
-    <Count/>
+    <Percentage/>
     </>
   );
 

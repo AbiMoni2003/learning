@@ -1,0 +1,32 @@
+.main-box{
+    border: 1px solid hsl(0, 3%, 0.5%);
+    padding: 10px;
+    text-align: center;
+    box-shadow: 5px 5px 30px black;
+    border-radius: 10px;
+    height: fit-content;
+    width: fit-content;
+    
+   
+}
+
+.heading{
+    text-shadow: 3px 3px 9px ;
+    font-size: 30px;
+}
+input{
+    margin: 5px;
+    padding: 4px;
+    border-color: black;
+    border-radius: 5px
+
+}
+
+button{
+    background-color: hsla(180, 90%, 49%, 0.76);
+    padding: 4px;
+    border: 0;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
