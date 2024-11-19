@@ -12,7 +12,7 @@ function App(){
   
   return(
     <>
-    <Count/>
+    <Percentage/>
     </>
   );
 
